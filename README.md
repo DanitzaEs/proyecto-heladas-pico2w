@@ -1,4 +1,4 @@
-Sistema inteligente de detección y mitigación de heladas en cultivos altoandinos
+##Sistema inteligente de detección y mitigación de heladas en cultivos altoandinos
 Descripción
 Este proyecto propone el desarrollo de un sistema embebido basado en una Raspberry Pi Pico 2 W para monitorear condiciones ambientales relacionadas con la aparición de heladas en cultivos altoandinos.
 El sistema utilizará sensores de temperatura, humedad, iluminación y temperatura del suelo para identificar condiciones normales, situaciones de riesgo y eventos de helada.
