@@ -146,6 +146,15 @@ GND → GND
 Se utiliza una resistencia pull-up de `4.7 kΩ` entre DATA y 3.3 V.
 
 ### Electroválvula
+GP22 → DATA  
+3.3 V → VDD  
+GND → GND  
+
+Se utiliza una resistencia pull-up de 4.7 kΩ entre DATA y 3.3 V.
+
+## Diagrama de conexiones
+
+![Diagrama de conexiones](diagramas/diagrama-conexiones.svg)
 
 ```text
 GP15
