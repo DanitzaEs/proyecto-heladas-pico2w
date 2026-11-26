@@ -525,11 +525,9 @@ Sincronización mediante lock          ✅
 Conexión Wi-Fi                        ✅
 Configuración de Ubidots              ✅
 Dashboard de Ubidots                  ✅
-Envío final de telemetría real        🔄 En validación
 Diseño / preparación 3D               ✅
 Archivos 3MF                          ✅
 Archivos STL                          ✅
-Integración física final              🔄 En progreso
 ```
 
 ---
